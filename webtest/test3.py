@@ -15,8 +15,12 @@ rows_by_date = defaultdict(list)
 print(rows_by_date)
 
 
-def lookup_name(mapping: Mapping[KT, VT], key: KT, default: VT) -> VT:
+def lookup_name(mapping: Mapping[map, str], key: map, default: str) -> str:
     try:
         return mapping[key]
     except KeyError:
         return default
+
+
+if __name__ == '__main__':
+    lookup_name()
