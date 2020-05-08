@@ -22,6 +22,10 @@
 //   query: queryObj
 // });
 
+// 启动项目需要安装的包
+// 新建一个graphql文件夹，然后在该目录下打开终端，执行npm init --y初始化一个packjson文件。
+// 安装依赖包：npm install --save -D express express-graphql graphql
+// 新建schema.js文件，填上下面的代码
 const {
       GraphQLSchema,
       GraphQLObjectType,

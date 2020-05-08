@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3565f87-9a06-47f2-be71-30a1417df2dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day01/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql_study/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql_study/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql_study/schema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphql_study/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql_study/schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_study/schema.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +236,7 @@
       <workItem from="1587728035447" duration="6085000" />
       <workItem from="1587973448464" duration="17760000" />
       <workItem from="1588418335013" duration="315000" />
-      <workItem from="1588729775092" duration="5223000" />
+      <workItem from="1588729775092" duration="5335000" />
     </task>
     <servers />
   </component>
