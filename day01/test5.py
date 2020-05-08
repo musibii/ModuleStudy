@@ -805,3 +805,14 @@ print(set(n_list))
 
 def greeting(name: int) -> str:
     return '1'
+
+
+if __name__ == '__main__':
+    n = 5
+    # 101 & 001 = 001
+    a = n & 1
+    print(a)
+    if n & 1:
+        print('奇数')
+    else:
+        print('偶数')

@@ -1,0 +1,21 @@
+{
+  "name": "graphql_advance",
+  "version": "1.0.0",
+  "description": "逐步从简单的 koa 服务到 MongoDB 的数据插入查询，再到 graphql 的使用，最终实现用 graphql 对数据库的增删查改",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "graphql-server-koa": "^1.4.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "mongoose": "^5.9.12"
+  },
+  "dependencies": {}
+}
