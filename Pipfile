@@ -9,6 +9,11 @@ verify_ssl = true
 web-py = "*"
 web = "*"
 semver = "*"
+pytest = "*"
+gunicore = "*"
+gunicorn = "*"
+consul = "*"
+redis = "*"
 
 [requires]
 python_version = "3.7"

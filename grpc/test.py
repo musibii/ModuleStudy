@@ -3,6 +3,8 @@
 # __file__  : test.py
 # __time__  : 2020/4/21 5:20 PM
 
-# from __future__ import absolute_import
-# import grpc
+from __future__ import absolute_import
+import grpc
 
+if __name__ == '__main__':
+    print(grpc)
