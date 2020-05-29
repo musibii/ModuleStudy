@@ -5,7 +5,6 @@
 
 import tornado.ioloop
 import tornado.web
-from swagger_ui import tornado_api_doc
 from tornado_swagger.setup import setup_swagger
 from tornado_swagger.model import register_swagger_model
 from tornado_swagger.setup import export_swagger
@@ -36,6 +35,22 @@ class PostModel:
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
+        """
+        ---
+        type: object
+        description: Post model representation
+        properties:
+            id:
+                type: integer
+                format: int64
+            title:
+                type: string
+            text:
+                type: string
+            is_visible:
+                type: boolean
+                default: true
+                """
         self.write("Hello, world")
 
 
@@ -48,7 +63,19 @@ class PostsDetailsHandler(tornado.web.RequestHandler):
     def get(self, posts_id):
         """
         ---
-        # write swagger specification here
+        type: object
+        description: Post model representation
+        properties:
+            id:
+                type: integer
+                format: int64
+            title:
+                type: string
+            text:
+                type: string
+            is_visible:
+                type: boolean
+                default: true
         """
 
 

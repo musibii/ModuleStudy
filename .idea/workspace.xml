@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3565f87-9a06-47f2-be71-30a1417df2dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm_study/394.字符串解码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mmf_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supervisor_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/api.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/oauth2-redirect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-standalone-preset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-standalone-preset.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/v1/swagger.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/api/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/api/pets_petId.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/validators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/api/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/api/pets_petId.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/validators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_demo/config/swagger_ui_study.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery_study/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery_study/celery_pro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/celery_pro/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery_study/celery_pro/celery_task/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/celery_pro/celery_task/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/描述符测试/test_o1.py" beforeDir="false" afterPath="$PROJECT_DIR$/描述符测试/test_o1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_demo/config/swagger_ui_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_demo/config/swagger_ui_study.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +69,7 @@
       <recent name="$PROJECT_DIR$/celery_delay" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__ (3)">
+  <component name="RunManager" selected="Python.swagger_ui_study">
     <configuration name="394.字符串解码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__ (3)" />
         <item itemvalue="Python.swagger_ui_study" />
+        <item itemvalue="Python.__init__ (3)" />
         <item itemvalue="Python.394.字符串解码" />
         <item itemvalue="Python.__init__ (2)" />
         <item itemvalue="Python.__init__ (1)" />
@@ -296,7 +252,7 @@
       <workItem from="1589284400427" duration="256000" />
       <workItem from="1589284691818" duration="31991000" />
       <workItem from="1590072177494" duration="17232000" />
-      <workItem from="1590648970088" duration="4756000" />
+      <workItem from="1590648970088" duration="11851000" />
     </task>
     <servers />
   </component>
@@ -346,62 +302,64 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587714033416" />
-    <state x="2295" y="-912" key="#xdebugger.evaluate" timestamp="1588153827386">
-      <screen x="1290" y="-1080" width="1920" height="1080" />
+    <state x="391" y="108" key="#xdebugger.evaluate" timestamp="1590738347308">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="603" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1587629993128" />
+    <state x="391" y="108" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1590738347308" />
     <state x="2295" y="-912" key="#xdebugger.evaluate/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588153827386" />
-    <state width="919" height="466" key="DebuggerActiveHint" timestamp="1583039982696">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1141" height="456" key="DebuggerActiveHint" timestamp="1590738483629">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="919" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1583039982696" />
-    <state width="1638" height="267" key="GridCell.Tab.0.bottom" timestamp="1590732305361">
+    <state width="1141" height="456" key="DebuggerActiveHint/0.23.1680.1027@0.23.1680.1027" timestamp="1590738483629" />
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom" timestamp="1590738489665">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759152" />
-    <state width="1638" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590738489665" />
     <state width="936" height="340" key="GridCell.Tab.0.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="267" key="GridCell.Tab.0.center" timestamp="1590732305360">
+    <state width="1638" height="276" key="GridCell.Tab.0.center" timestamp="1590738489663">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759151" />
-    <state width="1638" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305360" />
+    <state width="1638" height="276" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590738489663" />
     <state width="936" height="340" key="GridCell.Tab.0.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122736" />
-    <state width="1638" height="267" key="GridCell.Tab.0.left" timestamp="1590732305360">
+    <state width="1638" height="276" key="GridCell.Tab.0.left" timestamp="1590738489663">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759150" />
-    <state width="1638" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305360" />
+    <state width="1638" height="276" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590738489663" />
     <state width="936" height="340" key="GridCell.Tab.0.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122735" />
-    <state width="1638" height="267" key="GridCell.Tab.0.right" timestamp="1590732305361">
+    <state width="1638" height="276" key="GridCell.Tab.0.right" timestamp="1590738489664">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759152" />
-    <state width="1638" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305360" />
+    <state width="1638" height="276" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590738489664" />
     <state width="936" height="340" key="GridCell.Tab.0.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="267" key="GridCell.Tab.1.bottom" timestamp="1590732305361">
+    <state width="1638" height="276" key="GridCell.Tab.1.bottom" timestamp="1590738460568">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759154" />
-    <state width="1638" height="267" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
+    <state width="1638" height="276" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590738460568" />
     <state width="937" height="344" key="GridCell.Tab.1.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
-    <state width="1638" height="267" key="GridCell.Tab.1.center" timestamp="1590732305361">
+    <state width="1638" height="276" key="GridCell.Tab.1.center" timestamp="1590738460567">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759153" />
-    <state width="1638" height="267" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
+    <state width="1638" height="276" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590738460567" />
     <state width="937" height="344" key="GridCell.Tab.1.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="1638" height="267" key="GridCell.Tab.1.left" timestamp="1590732305361">
+    <state width="1638" height="276" key="GridCell.Tab.1.left" timestamp="1590738460567">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759153" />
-    <state width="1638" height="267" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
+    <state width="1638" height="276" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590738460567" />
     <state width="937" height="344" key="GridCell.Tab.1.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="1638" height="267" key="GridCell.Tab.1.right" timestamp="1590732305361">
+    <state width="1638" height="276" key="GridCell.Tab.1.right" timestamp="1590738460568">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="332" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759154" />
-    <state width="1638" height="267" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
+    <state width="1638" height="276" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590738460568" />
     <state width="937" height="344" key="GridCell.Tab.1.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
     <state x="402" y="91" key="SettingsEditor" timestamp="1590732717222">
       <screen x="0" y="23" width="1680" height="1027" />
@@ -523,11 +481,6 @@
           <url>file://$PROJECT_DIR$/webtest/test1.py</url>
           <line>133</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/tornado/web.py</url>
-          <line>1659</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/tornado/web.py</url>
@@ -664,6 +617,16 @@
           <line>14</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/tornado_swagger/setup.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/tornado_swagger/setup.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/graphql_study/server.js</url>
           <line>6</line>
@@ -683,7 +646,7 @@
     <SUITE FILE_PATH="coverage/tornadostudy$run.coverage" NAME="run Coverage Results" MODIFIED="1558843704814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$add_task.coverage" NAME="add_task Coverage Results" MODIFIED="1558853890790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$celery.coverage" NAME="celery Coverage Results" MODIFIED="1558857913299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_contab/celery_task" />
-    <SUITE FILE_PATH="coverage/tornadostudy$swagger_ui_study.coverage" NAME="swagger_ui_study Coverage Results" MODIFIED="1590731496073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swagger_demo" />
+    <SUITE FILE_PATH="coverage/tornadostudy$swagger_ui_study.coverage" NAME="swagger_ui_study Coverage Results" MODIFIED="1590738459751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swagger_demo" />
     <SUITE FILE_PATH="coverage/tornadostudy$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1590592037781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_study" />
     <SUITE FILE_PATH="coverage/tornadostudy$add_task__1_.coverage" NAME="add_task (1) Coverage Results" MODIFIED="1558856791898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_delay" />
     <SUITE FILE_PATH="coverage/tornadostudy$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1558927055971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/md5crypto" />

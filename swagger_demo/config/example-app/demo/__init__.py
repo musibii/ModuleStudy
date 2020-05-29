@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import os, sys
+import os
 import tornado.httpserver
 import tornado.ioloop
 import tornado.web
