@@ -2,22 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3565f87-9a06-47f2-be71-30a1417df2dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consul_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consul_study/test_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_study/study_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gunicorn_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gunicorn_study/test_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_study/test_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/描述符测试/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/描述符测试/test_o1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tornadostudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tornadostudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_study/394.字符串解码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mmf_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supervisor_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/oauth2-redirect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-standalone-preset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui-standalone-preset.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/swagger-ui/swagger-ui.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/static/v1/swagger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/api/pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/api/pets_petId.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/demo-ui/v1/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app-ui/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/api/pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/api/pets_petId.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/demo/v1/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/example-app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger_demo/config/swagger_ui_study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery_study/celery_delay/celery_app_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/celery_delay/celery_app_task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_02/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_study/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_study/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_study/celery_pro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/celery_pro/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_study/celery_pro/celery_task/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/celery_pro/celery_task/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/描述符测试/test_o1.py" beforeDir="false" afterPath="$PROJECT_DIR$/描述符测试/test_o1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,24 +96,25 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/swagger_demo/config" />
+      <recent name="$PROJECT_DIR$/swagger_demo/config/example_app" />
+      <recent name="$PROJECT_DIR$/example-app-ui/demo-ui" />
+      <recent name="$PROJECT_DIR$/example-app" />
+      <recent name="$PROJECT_DIR$/webtest" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/celery_contab" />
       <recent name="$PROJECT_DIR$/celery_delay" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/example-app-ui/demo-ui" />
-      <recent name="$PROJECT_DIR$/example-app" />
-      <recent name="$PROJECT_DIR$/webtest" />
-      <recent name="$PROJECT_DIR$/celery_study" />
-      <recent name="$PROJECT_DIR$/pytest_02" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.test_o1">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.__init__ (3)">
+    <configuration name="394.字符串解码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grpc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grpc/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_study/394.字符串解码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,12 +144,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mmf_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/test5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmf_study/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +166,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gunicorn_study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gunicorn_study/test_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_study/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_o1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__ (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,12 +188,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/描述符测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swagger_demo/config/example-app/demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/描述符测试/test_o1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swagger_demo/config/example-app/demo/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wsgiapp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swagger_ui_study" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,12 +210,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/gunicorn/app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swagger_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swagger_demo/config/swagger_ui_study.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_o1" />
-        <item itemvalue="Python.wsgiapp" />
-        <item itemvalue="Python.test_01" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.test5" />
+        <item itemvalue="Python.__init__ (3)" />
+        <item itemvalue="Python.swagger_ui_study" />
+        <item itemvalue="Python.394.字符串解码" />
+        <item itemvalue="Python.__init__ (2)" />
+        <item itemvalue="Python.__init__ (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +295,8 @@
       <workItem from="1589279460191" duration="1560000" />
       <workItem from="1589284400427" duration="256000" />
       <workItem from="1589284691818" duration="31991000" />
-      <workItem from="1590072177494" duration="630000" />
+      <workItem from="1590072177494" duration="17232000" />
+      <workItem from="1590648970088" duration="4756000" />
     </task>
     <servers />
   </component>
@@ -292,6 +326,10 @@
       <screen x="1290" y="-1080" width="1920" height="1080" />
     </state>
     <state x="1884" y="-855" key="#Inspections/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588068335420" />
+    <state x="723" y="368" key="#Notifications" timestamp="1590561859733">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="723" y="368" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1590561859733" />
     <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589781693172">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -300,6 +338,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="498" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1586669417952" />
+    <state x="478" y="114" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1590562003943">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="478" y="114" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590562003943" />
     <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587714033416">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -313,65 +355,65 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="919" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1583039982696" />
-    <state width="1638" height="310" key="GridCell.Tab.0.bottom" timestamp="1590058034188">
+    <state width="1638" height="267" key="GridCell.Tab.0.bottom" timestamp="1590732305361">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589265061930" />
-    <state width="1638" height="310" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590058034188" />
+    <state width="1638" height="332" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759152" />
+    <state width="1638" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
     <state width="936" height="340" key="GridCell.Tab.0.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="310" key="GridCell.Tab.0.center" timestamp="1590058034187">
+    <state width="1638" height="267" key="GridCell.Tab.0.center" timestamp="1590732305360">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589265061928" />
-    <state width="1638" height="310" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590058034187" />
+    <state width="1638" height="332" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759151" />
+    <state width="1638" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305360" />
     <state width="936" height="340" key="GridCell.Tab.0.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122736" />
-    <state width="1638" height="310" key="GridCell.Tab.0.left" timestamp="1590058034186">
+    <state width="1638" height="267" key="GridCell.Tab.0.left" timestamp="1590732305360">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589265061925" />
-    <state width="1638" height="310" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590058034186" />
+    <state width="1638" height="332" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759150" />
+    <state width="1638" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305360" />
     <state width="936" height="340" key="GridCell.Tab.0.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122735" />
-    <state width="1638" height="310" key="GridCell.Tab.0.right" timestamp="1590058034188">
+    <state width="1638" height="267" key="GridCell.Tab.0.right" timestamp="1590732305361">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589265061929" />
-    <state width="1638" height="310" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590058034188" />
+    <state width="1638" height="332" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759152" />
+    <state width="1638" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305360" />
     <state width="936" height="340" key="GridCell.Tab.0.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="937" height="344" key="GridCell.Tab.1.bottom" timestamp="1588418200545">
+    <state width="1638" height="267" key="GridCell.Tab.1.bottom" timestamp="1590732305361">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="341" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587631264629" />
-    <state width="937" height="344" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1588418200545" />
+    <state width="1638" height="332" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759154" />
+    <state width="1638" height="267" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
     <state width="937" height="344" key="GridCell.Tab.1.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
-    <state width="937" height="344" key="GridCell.Tab.1.center" timestamp="1588418200544">
+    <state width="1638" height="267" key="GridCell.Tab.1.center" timestamp="1590732305361">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="341" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587631264628" />
-    <state width="937" height="344" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1588418200544" />
+    <state width="1638" height="332" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759153" />
+    <state width="1638" height="267" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
     <state width="937" height="344" key="GridCell.Tab.1.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="937" height="344" key="GridCell.Tab.1.left" timestamp="1588418200544">
+    <state width="1638" height="267" key="GridCell.Tab.1.left" timestamp="1590732305361">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="341" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587631264628" />
-    <state width="937" height="344" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1588418200544" />
+    <state width="1638" height="332" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759153" />
+    <state width="1638" height="267" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
     <state width="937" height="344" key="GridCell.Tab.1.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="937" height="344" key="GridCell.Tab.1.right" timestamp="1588418200545">
+    <state width="1638" height="267" key="GridCell.Tab.1.right" timestamp="1590732305361">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="341" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587631264629" />
-    <state width="937" height="344" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1588418200545" />
+    <state width="1638" height="332" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590561759154" />
+    <state width="1638" height="267" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590732305361" />
     <state width="937" height="344" key="GridCell.Tab.1.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
-    <state x="402" y="91" key="SettingsEditor" timestamp="1590057312865">
+    <state x="402" y="91" key="SettingsEditor" timestamp="1590732717222">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="349" y="155" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1589254700804" />
-    <state x="402" y="91" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590057312865" />
+    <state x="349" y="155" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590561855269" />
+    <state x="402" y="91" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590732717222" />
     <state x="1749" y="-1008" key="SettingsEditor/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588130277702" />
     <state x="402" y="91" key="SettingsEditor/1290.-1080.1920.1080/0.23.1680.1027@0.23.1680.1027" timestamp="1589967201397" />
-    <state x="506" y="299" width="667" height="518" key="find.popup" timestamp="1589862435516">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="506" y="282" width="667" height="518" key="find.popup" timestamp="1590463204937">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="506" y="282" width="667" height="518" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1589254852926" />
+    <state x="506" y="282" width="667" height="518" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590463204937" />
     <state x="506" y="299" width="667" height="518" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1589862435516" />
   </component>
   <component name="XDebuggerManager">
@@ -498,16 +540,6 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/tornado/ioloop.py</url>
-          <line>263</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/tornado/ioloop.py</url>
-          <line>278</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/__future__.py</url>
           <line>119</line>
           <option name="timeStamp" value="32" />
@@ -572,32 +604,103 @@
           <line>23</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mmf_study/__init__.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/collections/__init__.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/collections/__init__.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/collections/__init__.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/collections/__init__.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/collections/__init__.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/collections/__init__.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/collections/__init__.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithm_study/__init__.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithm_study/__init__.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithm_study/394.字符串解码.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithm_study/394.字符串解码.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/graphql_study/server.js</url>
           <line>6</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tornadostudy$run.coverage" NAME="run Coverage Results" MODIFIED="1558843704814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$add_task.coverage" NAME="add_task Coverage Results" MODIFIED="1558853890790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$celery.coverage" NAME="celery Coverage Results" MODIFIED="1558857913299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_contab/celery_task" />
+    <SUITE FILE_PATH="coverage/tornadostudy$swagger_ui_study.coverage" NAME="swagger_ui_study Coverage Results" MODIFIED="1590731496073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swagger_demo" />
+    <SUITE FILE_PATH="coverage/tornadostudy$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1590592037781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_study" />
     <SUITE FILE_PATH="coverage/tornadostudy$add_task__1_.coverage" NAME="add_task (1) Coverage Results" MODIFIED="1558856791898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_delay" />
     <SUITE FILE_PATH="coverage/tornadostudy$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1558927055971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/md5crypto" />
     <SUITE FILE_PATH="coverage/tornadostudy$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1588214108968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest" />
     <SUITE FILE_PATH="coverage/tornadostudy$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1589466729719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gunicorn_study" />
     <SUITE FILE_PATH="coverage/tornadostudy$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1587884265535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/tornadostudy$send_task.coverage" NAME="send_task Coverage Results" MODIFIED="1558855663804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_pro" />
+    <SUITE FILE_PATH="coverage/tornadostudy$Unittests_for_auth_test_GoogleOAuth2Test_test_google_login.coverage" NAME="Unittests for auth_test.GoogleOAuth2Test.test_google_login Coverage Results" MODIFIED="1590463423649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornadoorigin/tornado/tornado/test" />
     <SUITE FILE_PATH="coverage/tornadostudy$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1587631069844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/security_random" />
     <SUITE FILE_PATH="coverage/tornadostudy$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1558769825699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/itdangerous" />
     <SUITE FILE_PATH="coverage/tornadostudy$result.coverage" NAME="result Coverage Results" MODIFIED="1558846933323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
-    <SUITE FILE_PATH="coverage/tornadostudy$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1574932188451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/itdangerous" />
+    <SUITE FILE_PATH="coverage/tornadostudy$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1590732283762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swagger_demo/config/example-app/demo" />
     <SUITE FILE_PATH="coverage/tornadostudy$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1588907218685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/tornadostudy$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1590468170897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_study/celery_pro" />
     <SUITE FILE_PATH="coverage/tornadostudy$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1573886398711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest" />
     <SUITE FILE_PATH="coverage/tornadostudy$multithreading.coverage" NAME="multithreading Coverage Results" MODIFIED="1587738015792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tornadostudy$test_o1.coverage" NAME="test_o1 Coverage Results" MODIFIED="1590058034181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/描述符测试" />
+    <SUITE FILE_PATH="coverage/tornadostudy$test_o1.coverage" NAME="test_o1 Coverage Results" MODIFIED="1590463136098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/描述符测试" />
     <SUITE FILE_PATH="coverage/tornadostudy$file_recv.coverage" NAME="file_recv Coverage Results" MODIFIED="1559448780624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/tornadostudy$webpy.coverage" NAME="webpy Coverage Results" MODIFIED="1558776106131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tornadostudy$celery_01.coverage" NAME="celery_01 Coverage Results" MODIFIED="1558840224031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
@@ -607,6 +710,8 @@
     <SUITE FILE_PATH="coverage/tornadostudy$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1582855706718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week01/day01" />
     <SUITE FILE_PATH="coverage/tornadostudy$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1588154135878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/tornadostudy$wsgiapp.coverage" NAME="wsgiapp Coverage Results" MODIFIED="1589471117917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.local/share/virtualenvs/tornadostudy-YTjNbq6K/lib/python3.7/site-packages/gunicorn/app" />
+    <SUITE FILE_PATH="coverage/tornadostudy$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1590548089023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmf_study" />
+    <SUITE FILE_PATH="coverage/tornadostudy$394_.coverage" NAME="394.字符串解码 Coverage Results" MODIFIED="1590678248833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_study" />
     <SUITE FILE_PATH="coverage/tornadostudy$blog.coverage" NAME="blog Coverage Results" MODIFIED="1557385421775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornadoorigin/tornado/demos/blog" />
     <SUITE FILE_PATH="coverage/tornadostudy$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1561352191875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week01/day01" />
   </component>
