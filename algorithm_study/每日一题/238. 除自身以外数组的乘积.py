@@ -2,7 +2,6 @@
 # __author__: musibii
 # __file__  : 238. 除自身以外数组的乘积
 # __time__  : 2020/6/4 10:40 上午
-from functools import reduce
 from typing import List
 
 """
