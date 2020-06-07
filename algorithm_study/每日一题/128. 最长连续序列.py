@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # __author__: musibii
-# __file__  : 146. LRU缓存机制.py
+# __file__  : 128. 最长连续序列.py
 # __time__  : 2020/6/6 10:45 下午
 
 import typing

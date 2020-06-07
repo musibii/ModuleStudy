@@ -43,6 +43,7 @@ from typing import List
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
 
+
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
         max_candy = max(candies)
@@ -50,6 +51,7 @@ class Solution:
         for i in candies:
             rtn.append((i + extraCandies) >= max_candy)
         return rtn
+
 
 if __name__ == '__main__':
     print(Solution().kidsWithCandies([2,3,5,1,3], 3))
