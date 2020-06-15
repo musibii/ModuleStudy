@@ -11,3 +11,9 @@ print(result.id, type(add))
 
 from celery.result import AsyncResult
 
+from celery.__main__ import main
+import multiprocessing
+import multiprocessing.forking
+multiprocessing.forking.get_preparation_data
+from celery import chain
+
