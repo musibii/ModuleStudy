@@ -4,6 +4,7 @@
 # __time__  : 2020/6/15 1:29 下午
 
 import typing
+from optparse import OptionParser
 
 """
 编写一个函数来查找字符串数组中的最长公共前缀。
@@ -39,6 +40,26 @@ class Solution:
                 return str0[:i]
         return str0
 
+    def longestCommonPrefix1(self, strs):
+        ans = ''
+        for i in zip(*strs):
+            if len(set(i)) == 1:
+                ans += i[0]
+            else:
+                break
+        return ans
+
+
 # ["flower","flow","flight"]
 # ["dog","racecar","car"]
-Solution().longestCommonPrefix(["flower","flow","flight"])
+Solution().longestCommonPrefix1(["flower", "flow", "flight"])
+
+
+def enumerate(collection):
+    'Generates an indexed series:  (0,coll[0]), (1,coll[1]) ...'
+    i = 0
+    it = iter(collection)
+    while 1:
+        yield (i, it.next())
+        i += 1
+OptionParser
