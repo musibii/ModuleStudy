@@ -2,7 +2,7 @@
 # __author__: musibii
 # __file__  : 297. 二叉树的序列化与反序列化.py
 # __time__  : 2020/6/16 9:52 上午
-
+import collections
 import typing
 
 """
@@ -29,4 +29,58 @@ import typing
 链接：https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
-list.sort
+
+
+# Definition for a binary tree node.
+class TreeNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
+
+class Codec:
+
+    def serialize(self, root):
+        """Encodes a tree to a single string.
+
+        :type root: TreeNode
+        :rtype: str
+        """
+        if not root: return "[]"
+        queue = collections.deque()
+        queue.append(root)
+        res = []
+        while queue:
+            node = queue.popleft()
+            if node:
+                res.append(str(node.val))
+                queue.append(node.left)
+                queue.append(node.right)
+            else:
+                res.append("null")
+        return '[' + ','.join(res) + ']'
+
+    def deserialize(self, data):
+        """Decodes your encoded data to tree.
+
+        :type data: str
+        :rtype: TreeNode
+        """
+        if data == '[]':
+            return None
+        vals, i = data[1:-1].split(','), 1
+        root = TreeNode(int(vals[0]))
+        queue = collections.deque()
+        queue.append(root)
+        while queue:
+            node = queue.popleft()
+            if vals[i] != "null":
+                node.left = TreeNode(int(vals[i]))
+                queue.append(node.left)
+            i += 1
+            if vals[i] != "null":
+                node.right = TreeNode(int(vals[i]))
+                queue.append(node.right)
+            i += 1
+        return root

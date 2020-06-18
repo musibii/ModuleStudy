@@ -1,0 +1,10 @@
+{
+        "selected_weekday": "0,1",
+        "selected_effective_period": {"open_time": "00: 00", "close_time": "23: 59'",
+        "user_type": 1,
+        "discount_type": {"type": 0 , "value": 9.9},
+        "store_user_day_limit": 5,
+        "store_user_limit": 20,
+        "total_stock": 50000
+        }
+    }
