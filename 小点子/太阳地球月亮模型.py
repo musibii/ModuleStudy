@@ -2,6 +2,7 @@
 # __author__: musibii
 # __file__  : 太阳地球月亮模型.py
 # __time__  : 2020/6/17 2:58 下午
+#
 
 
 import numpy as np
@@ -27,7 +28,11 @@ def update(data):
     line2.set_3d_properties(data[5])
     line3.set_data([data[6], data[7]])
     line3.set_3d_properties(data[8])
-    return line1, line2, line3,
+    return (
+        line1,
+        line2,
+        line3,
+    )
 
 
 def init():
@@ -42,12 +47,14 @@ def init():
     yt2 = yt1 + r2 * np.cos(omega2 * t) / (np.cos(phi) * (1 + np.tan(phi) ** 2))
     zt2 = zt1 + (yt2 - yt1) * np.tan(phi)
     xt21 = xt1 + r2 * np.sin(2 * np.pi * t_range)
-    yt21 = yt1 + r2 * np.cos(2 * np.pi * t_range) / (np.cos(phi) * (1 + np.tan(phi) ** 2))
+    yt21 = yt1 + r2 * np.cos(2 * np.pi * t_range) / (
+        np.cos(phi) * (1 + np.tan(phi) ** 2)
+    )
     zt21 = zt1 + (yt21 - yt1) * np.tan(phi)
 
-    line1, = ax.plot([xt1], [yt1], [zt1], marker='o', color='blue', markersize=8)
-    line2, = ax.plot([xt2], [yt2], [zt2], marker='o', color='orange', markersize=4)
-    line3, = ax.plot(xt21, yt21, zt21, color='purple')
+    (line1,) = ax.plot([xt1], [yt1], [zt1], marker="o", color="blue", markersize=8)
+    (line2,) = ax.plot([xt2], [yt2], [zt2], marker="o", color="orange", markersize=4)
+    (line3,) = ax.plot(xt21, yt21, zt21, color="purple")
     return line1, line2, line3
 
 
@@ -66,7 +73,9 @@ def data_gen():
         yt2 = yt1 + r2 * np.cos(omega2 * t) / (np.cos(phi) * (1 + np.tan(phi) ** 2))
         zt2 = zt1 + (yt2 - yt1) * np.tan(phi)
         xt21 = xt1 + r2 * np.sin(2 * np.pi * t_range)
-        yt21 = yt1 + r2 * np.cos(2 * np.pi * t_range) / (np.cos(phi) * (1 + np.tan(phi) ** 2))
+        yt21 = yt1 + r2 * np.cos(2 * np.pi * t_range) / (
+            np.cos(phi) * (1 + np.tan(phi) ** 2)
+        )
         zt21 = zt1 + (yt21 - yt1) * np.tan(phi)
         data.append([xt1, yt1, zt1, xt2, yt2, zt2, xt21, yt21, zt21])
     return data
@@ -92,27 +101,29 @@ y2 = y1 + r2 * np.cos(omega2 * t_range) / (np.cos(phi) * (1 + np.tan(phi) ** 2))
 z2 = z1 + (y2 - y1) * np.tan(phi)
 
 f = plt.figure(figsize=(6, 6))
-ax = f.add_subplot(111, projection='3d')
+ax = f.add_subplot(111, projection="3d")
 # plt.rcParams['animation.ffmpeg_path'] = r"C:\Program Files\ffmpeg\bin\ffmpeg"
 # plt.rcParams['animation.convert_path'] = r"C:\Program Files\ImageMagick-7.0.7-Q16\magick.exe"
-ax.set_aspect(1./ax.get_data_ratio())
+ax.set_aspect(1.0 / ax.get_data_ratio())
 ax.set_title("Sun-Earth-Moon Model")
 
-ax.plot([0], [0], [0], marker='o', color='red', markersize=16)
-ax.plot(x1, y1, z1, 'r')
-ax.plot(x2, y2, z2, 'b')
+ax.plot([0], [0], [0], marker="o", color="red", markersize=16)
+ax.plot(x1, y1, z1, "r")
+ax.plot(x2, y2, z2, "b")
 ax.set_xlim([-(r1 + 2), (r1 + 2)])
 ax.set_ylim([-(r1 + 2), (r1 + 2)])
 ax.set_zlim([-5, 5])
 # line1 update Earth's track  dynamically
 # line2 update Moon's track dynamically
 # line3 update Moon's orbit to earth
-line1, = ax.plot([], [], [], marker='o', color='blue', markersize=8, animated=True)
-line2, = ax.plot([], [], [], marker='o', color='orange', markersize=4, animated=True)
-line3, = ax.plot([], [], [], color='purple', animated=True)
+(line1,) = ax.plot([], [], [], marker="o", color="blue", markersize=8, animated=True)
+(line2,) = ax.plot([], [], [], marker="o", color="orange", markersize=4, animated=True)
+(line3,) = ax.plot([], [], [], color="purple", animated=True)
 
 # red sphere for Sun, blue sphere for Earth, orange sphere for Moon
-ani = animmation.FuncAnimation(f, update, frames=data_gen(), init_func=init, interval=20)
+ani = animmation.FuncAnimation(
+    f, update, frames=data_gen(), init_func=init, interval=20
+)
 # ffwriter = animmation.ffmpegwriter(fps = 200)
 # ani.save('planet.gif', writer='imagemagick', fps=40)
 # ani.save('planet.gif', writer = ffwriter)

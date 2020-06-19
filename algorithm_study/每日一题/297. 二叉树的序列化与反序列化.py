@@ -40,14 +40,14 @@ class TreeNode(object):
 
 
 class Codec:
-
     def serialize(self, root):
         """Encodes a tree to a single string.
 
         :type root: TreeNode
         :rtype: str
         """
-        if not root: return "[]"
+        if not root:
+            return "[]"
         queue = collections.deque()
         queue.append(root)
         res = []
@@ -59,7 +59,7 @@ class Codec:
                 queue.append(node.right)
             else:
                 res.append("null")
-        return '[' + ','.join(res) + ']'
+        return "[" + ",".join(res) + "]"
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -67,9 +67,9 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        if data == '[]':
+        if data == "[]":
             return None
-        vals, i = data[1:-1].split(','), 1
+        vals, i = data[1:-1].split(","), 1
         root = TreeNode(int(vals[0]))
         queue = collections.deque()
         queue.append(root)
