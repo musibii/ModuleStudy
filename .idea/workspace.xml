@@ -2,35 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3565f87-9a06-47f2-be71-30a1417df2dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coroutine_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coroutine_study/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coroutine_study/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/1000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/10000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/11000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/12000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/13000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/14000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/15000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/16000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/17000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/18000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/19000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/2000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/3000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/4000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/5000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/6000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/7000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/8000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小点子/three-body/9000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_study/每日一题/面试题 16.18. 模式匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy_gui_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy_gui_study/test_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_study/每日一题/297. 二叉树的序列化与反序列化.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_study/每日一题/297. 二叉树的序列化与反序列化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery_study/celerytest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_study/celerytest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小点子/二维空间模拟三维运动.py" beforeDir="false" afterPath="$PROJECT_DIR$/小点子/二维空间模拟三维运动.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小点子/太阳地球月亮模型.py" beforeDir="false" afterPath="$PROJECT_DIR$/小点子/太阳地球月亮模型.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +77,7 @@
       <recent name="$PROJECT_DIR$/webtest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test02">
+  <component name="RunManager" selected="Python.test_01">
     <configuration name="二维空间模拟三维运动" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,28 +166,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tornadostudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小点子" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小点子/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,13 +210,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tornadostudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy_gui_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy_gui_study/test_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_01" />
         <item itemvalue="Python.test02" />
         <item itemvalue="Python.test01" />
         <item itemvalue="Python.__init__ (1)" />
         <item itemvalue="Python.二维空间模拟三维运动" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +318,7 @@
       <workItem from="1592373139380" duration="52000" />
       <workItem from="1592373211905" duration="215000" />
       <workItem from="1592373453451" duration="3773000" />
-      <workItem from="1592380710773" duration="23114000" />
+      <workItem from="1592380710773" duration="29492000" />
     </task>
     <servers />
   </component>
@@ -410,70 +385,70 @@
     </state>
     <state width="919" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1591609959030" />
     <state width="1141" height="456" key="DebuggerActiveHint/0.23.1680.1027@0.23.1680.1027" timestamp="1590738483629" />
-    <state x="516" y="237" width="753" height="645" key="EditFileWatcherDialog" timestamp="1592530653029">
+    <state x="516" y="237" width="753" height="645" key="EditFileWatcherDialog" timestamp="1592811167909">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="516" y="237" width="753" height="645" key="EditFileWatcherDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592530653029" />
-    <state width="1638" height="389" key="GridCell.Tab.0.bottom" timestamp="1592538270784">
+    <state x="516" y="237" width="753" height="645" key="EditFileWatcherDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592811167909" />
+    <state width="1638" height="382" key="GridCell.Tab.0.bottom" timestamp="1592811262773">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555766" />
-    <state width="1638" height="389" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270784" />
+    <state width="1638" height="382" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262773" />
     <state width="936" height="340" key="GridCell.Tab.0.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="389" key="GridCell.Tab.0.center" timestamp="1592538270783">
+    <state width="1638" height="382" key="GridCell.Tab.0.center" timestamp="1592811262772">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555765" />
-    <state width="1638" height="389" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270783" />
+    <state width="1638" height="382" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262772" />
     <state width="936" height="340" key="GridCell.Tab.0.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122736" />
-    <state width="1638" height="389" key="GridCell.Tab.0.left" timestamp="1592538270782">
+    <state width="1638" height="382" key="GridCell.Tab.0.left" timestamp="1592811262771">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555763" />
-    <state width="1638" height="389" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270782" />
+    <state width="1638" height="382" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262771" />
     <state width="936" height="340" key="GridCell.Tab.0.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122735" />
-    <state width="1638" height="389" key="GridCell.Tab.0.right" timestamp="1592538270783">
+    <state width="1638" height="382" key="GridCell.Tab.0.right" timestamp="1592811262773">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555766" />
-    <state width="1638" height="389" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270783" />
+    <state width="1638" height="382" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262773" />
     <state width="936" height="340" key="GridCell.Tab.0.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="389" key="GridCell.Tab.1.bottom" timestamp="1592538270705">
+    <state width="1638" height="389" key="GridCell.Tab.1.bottom" timestamp="1592541895457">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555768" />
-    <state width="1638" height="389" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270705" />
+    <state width="1638" height="389" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592541895457" />
     <state width="937" height="344" key="GridCell.Tab.1.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
-    <state width="1638" height="389" key="GridCell.Tab.1.center" timestamp="1592538270705">
+    <state width="1638" height="389" key="GridCell.Tab.1.center" timestamp="1592541895457">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555767" />
-    <state width="1638" height="389" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270705" />
+    <state width="1638" height="389" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592541895457" />
     <state width="937" height="344" key="GridCell.Tab.1.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="1638" height="389" key="GridCell.Tab.1.left" timestamp="1592538270704">
+    <state width="1638" height="389" key="GridCell.Tab.1.left" timestamp="1592541895456">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555767" />
-    <state width="1638" height="389" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270704" />
+    <state width="1638" height="389" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592541895456" />
     <state width="937" height="344" key="GridCell.Tab.1.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="1638" height="389" key="GridCell.Tab.1.right" timestamp="1592538270705">
+    <state width="1638" height="389" key="GridCell.Tab.1.right" timestamp="1592541895457">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555768" />
-    <state width="1638" height="389" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592538270705" />
+    <state width="1638" height="389" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592541895457" />
     <state width="937" height="344" key="GridCell.Tab.1.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
-    <state x="402" y="91" key="SettingsEditor" timestamp="1592530655318">
+    <state x="402" y="91" key="SettingsEditor" timestamp="1592811168660">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="349" y="155" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1592363252948" />
-    <state x="402" y="91" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1592530655318" />
+    <state x="402" y="91" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1592811168660" />
     <state x="1749" y="-1008" key="SettingsEditor/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588130277702" />
     <state x="402" y="91" key="SettingsEditor/1290.-1080.1920.1080/0.23.1680.1027@0.23.1680.1027" timestamp="1589967201397" />
-    <state x="506" y="282" width="667" height="518" key="find.popup" timestamp="1590463204937">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="506" y="299" width="667" height="522" key="find.popup" timestamp="1592838499560">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="506" y="282" width="667" height="518" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590463204937" />
-    <state x="506" y="299" width="667" height="518" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1589862435516" />
+    <state x="506" y="299" width="667" height="522" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1592838499560" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -770,7 +745,7 @@
     <SUITE FILE_PATH="coverage/tornadostudy$add_task__1_.coverage" NAME="add_task (1) Coverage Results" MODIFIED="1558856791898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_delay" />
     <SUITE FILE_PATH="coverage/tornadostudy$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1588214108968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest" />
     <SUITE FILE_PATH="coverage/tornadostudy$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1592538270675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine_study" />
-    <SUITE FILE_PATH="coverage/tornadostudy$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1589466729719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gunicorn_study" />
+    <SUITE FILE_PATH="coverage/tornadostudy$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1592811259708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy_gui_study" />
     <SUITE FILE_PATH="coverage/tornadostudy$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1587884265535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/tornadostudy$send_task.coverage" NAME="send_task Coverage Results" MODIFIED="1558855663804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_pro" />
     <SUITE FILE_PATH="coverage/tornadostudy$Unittests_for_auth_test_GoogleOAuth2Test_test_google_login.coverage" NAME="Unittests for auth_test.GoogleOAuth2Test.test_google_login Coverage Results" MODIFIED="1590463423649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornadoorigin/tornado/tornado/test" />
