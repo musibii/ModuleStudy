@@ -42,41 +42,48 @@
 #
 # print()
 
-a = []
-b = []
-a.append(b)
-b.append(a)
-# ccc = 'asdfasdaa1234214sdf'
-name = 'musibii'
-age = 'df'
-import sys
-print(sys.getrefcount(b))
-print(sys.getrefcount(a))
-print(sys.getrefcount(name))
-print(sys.getrefcount(age))
+# a = []
+# b = []
+# a.append(b)
+# b.append(a)
+# # ccc = 'asdfasdaa1234214sdf'
+# name = "musibii"
+# age = "df"
+# import sys
+#
+# print(sys.getrefcount(b))
+# print(sys.getrefcount(a))
+# print(sys.getrefcount(name))
+# print(sys.getrefcount(age))
+#
+# import pdb
+#
+# a = 10
+# print(id(a))
+#
+# c = [a]
+# print(c, id(c))
+#
+#
+# print(list(map(lambda x: x ** x, [1, 2, 3, 4, 5, 6, 7, 8, 9])))
+# print(list((lambda x: x ** x, [1, 2, 3, 4, 5, 6, 7, 8, 9])))
+#
+#
+# print(dir("a"))
+# print(dir())
+#
+# # hasattr()
+#
+# # a.name = 'adf'
+# # print(getattr(a, 'name', 'musibii'))
+# # setattr()
+# import socket
 
-import pdb
+# print(hash("hello"))
+# import hashlib
 
-a = 10
-print(id(a))
+from test01 import func
 
-c = [a]
-print(c, id(c))
-
-
-
-print(list(map(lambda x:x**x, [1, 2, 3, 4, 5, 6, 7, 8, 9])))
-print(list((lambda x:x**x, [1, 2, 3, 4, 5, 6, 7, 8, 9])))
-
-
-print(dir('a'))
-print(dir())
-
-# hasattr()
-
-# a.name = 'adf'
-# print(getattr(a, 'name', 'musibii'))
-# setattr()
-import socket
-print(hash('hello'))
-import hashlib
+a = func(3, 4)
+if a == 12:
+    print("test passes")

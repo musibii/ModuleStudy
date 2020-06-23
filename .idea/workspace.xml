@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3565f87-9a06-47f2-be71-30a1417df2dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm_study/每日一题/面试题 16.18. 模式匹配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy_gui_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy_gui_study/test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_study/每日一题/67. 二进制求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctest_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctest_study/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctest_study/test02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/day01/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/day01/test02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,29 +80,7 @@
       <recent name="$PROJECT_DIR$/webtest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_01">
-    <configuration name="二维空间模拟三维运动" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tornadostudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小点子" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小点子/二维空间模拟三维运动.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test02 (2)">
     <configuration name="八大行星动画演示" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,28 +125,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tornadostudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/celery_study/celerytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/celery_study/celerytest/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +139,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coroutine_study/test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tornadostudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test02 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tornadostudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doctest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doctest_study/test02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test02 (2)" />
+        <item itemvalue="Python.test02 (1)" />
         <item itemvalue="Python.test_01" />
         <item itemvalue="Python.test02" />
         <item itemvalue="Python.test01" />
-        <item itemvalue="Python.__init__ (1)" />
-        <item itemvalue="Python.二维空间模拟三维运动" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +321,7 @@
       <workItem from="1592373139380" duration="52000" />
       <workItem from="1592373211905" duration="215000" />
       <workItem from="1592373453451" duration="3773000" />
-      <workItem from="1592380710773" duration="29492000" />
+      <workItem from="1592380710773" duration="35132000" />
     </task>
     <servers />
   </component>
@@ -389,29 +392,29 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="516" y="237" width="753" height="645" key="EditFileWatcherDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592811167909" />
-    <state width="1638" height="382" key="GridCell.Tab.0.bottom" timestamp="1592811262773">
+    <state width="1638" height="382" key="GridCell.Tab.0.bottom" timestamp="1592918060954">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555766" />
-    <state width="1638" height="382" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262773" />
+    <state width="1638" height="382" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592918060954" />
     <state width="936" height="340" key="GridCell.Tab.0.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="382" key="GridCell.Tab.0.center" timestamp="1592811262772">
+    <state width="1638" height="382" key="GridCell.Tab.0.center" timestamp="1592918060953">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555765" />
-    <state width="1638" height="382" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262772" />
+    <state width="1638" height="382" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592918060953" />
     <state width="936" height="340" key="GridCell.Tab.0.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122736" />
-    <state width="1638" height="382" key="GridCell.Tab.0.left" timestamp="1592811262771">
+    <state width="1638" height="382" key="GridCell.Tab.0.left" timestamp="1592918060952">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555763" />
-    <state width="1638" height="382" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262771" />
+    <state width="1638" height="382" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592918060952" />
     <state width="936" height="340" key="GridCell.Tab.0.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122735" />
-    <state width="1638" height="382" key="GridCell.Tab.0.right" timestamp="1592811262773">
+    <state width="1638" height="382" key="GridCell.Tab.0.right" timestamp="1592918060953">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1638" height="427" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555766" />
-    <state width="1638" height="382" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592811262773" />
+    <state width="1638" height="382" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592918060953" />
     <state width="936" height="340" key="GridCell.Tab.0.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
     <state width="1638" height="389" key="GridCell.Tab.1.bottom" timestamp="1592541895457">
       <screen x="0" y="23" width="1680" height="1027" />
@@ -734,6 +737,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tornadostudy$test02__2_.coverage" NAME="test02 (2) Coverage Results" MODIFIED="1592918038738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctest_study" />
     <SUITE FILE_PATH="coverage/tornadostudy$run.coverage" NAME="run Coverage Results" MODIFIED="1558843704814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$add_task.coverage" NAME="add_task Coverage Results" MODIFIED="1558853890790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$celery.coverage" NAME="celery Coverage Results" MODIFIED="1558857913299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_contab/celery_task" />
@@ -773,6 +777,6 @@
     <SUITE FILE_PATH="coverage/tornadostudy$394_.coverage" NAME="394.字符串解码 Coverage Results" MODIFIED="1590678248833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_study" />
     <SUITE FILE_PATH="coverage/tornadostudy$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1592536359176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_study/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$blog.coverage" NAME="blog Coverage Results" MODIFIED="1557385421775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornadoorigin/tornado/demos/blog" />
-    <SUITE FILE_PATH="coverage/tornadostudy$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1561352191875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week01/day01" />
+    <SUITE FILE_PATH="coverage/tornadostudy$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1592912631147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
   </component>
 </project>
