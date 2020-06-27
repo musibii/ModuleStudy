@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3565f87-9a06-47f2-be71-30a1417df2dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gitlab_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitlab_study/test_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_study/LeetCode/322. 零钱兑换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_study/LeetCode/509. 斐波那契数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_study/LeetCode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/my_math2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/test6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +79,8 @@
       <recent name="$PROJECT_DIR$/webtest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.67. 二进制求和">
-    <configuration name="八大行星动画演示" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.509. 斐波那契数">
+    <configuration name="509. 斐波那契数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小点子" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_study/LeetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小点子/八大行星动画演示.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_study/LeetCode/509. 斐波那契数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,57 +190,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test6.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="tornadostudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coroutine_study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coroutine_study/test02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tornadostudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy_gui_study" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy_gui_study/test_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/day01/test6.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.509. 斐波那契数" />
+        <item itemvalue="Python tests.Unittests in test6.py" />
         <item itemvalue="Python.67. 二进制求和" />
         <item itemvalue="Python.test02 (2)" />
         <item itemvalue="Python.test02 (1)" />
-        <item itemvalue="Python.test_01" />
-        <item itemvalue="Python.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +292,7 @@
       <workItem from="1592373211905" duration="215000" />
       <workItem from="1592373453451" duration="3773000" />
       <workItem from="1592380710773" duration="37521000" />
-      <workItem from="1592985181013" duration="3310000" />
+      <workItem from="1592985181013" duration="8357000" />
     </task>
     <servers />
   </component>
@@ -358,6 +331,11 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1589781693172" />
+    <state x="100" y="79" width="1480" height="870" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593007527962">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="79" width="1480" height="870" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593007527962" />
+    <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593006337852" />
     <state x="498" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586669417952">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -375,10 +353,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587714033416" />
-    <state x="1074" y="121" key="#xdebugger.evaluate" timestamp="1592928616691">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="1042" y="281" key="#xdebugger.evaluate" timestamp="1593005903368">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="1042" y="281" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1591609908218" />
+    <state x="1042" y="281" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1593005903368" />
     <state x="1074" y="121" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1592928616691" />
     <state x="2295" y="-912" key="#xdebugger.evaluate/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588153827386" />
     <state width="919" height="466" key="DebuggerActiveHint" timestamp="1591609959030">
@@ -391,52 +369,52 @@
     </state>
     <state x="516" y="219" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592985383079" />
     <state x="516" y="237" width="753" height="645" key="EditFileWatcherDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592811167909" />
-    <state width="1638" height="389" key="GridCell.Tab.0.bottom" timestamp="1592983040380">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="283" key="GridCell.Tab.0.bottom" timestamp="1593268912223">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555766" />
+    <state width="1638" height="283" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593268912223" />
     <state width="1638" height="389" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040380" />
     <state width="936" height="340" key="GridCell.Tab.0.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="389" key="GridCell.Tab.0.center" timestamp="1592983040379">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="283" key="GridCell.Tab.0.center" timestamp="1593268912221">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555765" />
+    <state width="1638" height="283" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593268912221" />
     <state width="1638" height="389" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040379" />
     <state width="936" height="340" key="GridCell.Tab.0.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122736" />
-    <state width="1638" height="389" key="GridCell.Tab.0.left" timestamp="1592983040369">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="283" key="GridCell.Tab.0.left" timestamp="1593268912221">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555763" />
+    <state width="1638" height="283" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593268912221" />
     <state width="1638" height="389" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040369" />
     <state width="936" height="340" key="GridCell.Tab.0.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122735" />
-    <state width="1638" height="389" key="GridCell.Tab.0.right" timestamp="1592983040379">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="283" key="GridCell.Tab.0.right" timestamp="1593268912222">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555766" />
+    <state width="1638" height="283" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593268912222" />
     <state width="1638" height="389" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040379" />
     <state width="936" height="340" key="GridCell.Tab.0.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588214122737" />
-    <state width="1638" height="389" key="GridCell.Tab.1.bottom" timestamp="1592983040382">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="370" key="GridCell.Tab.1.bottom" timestamp="1593268563298">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555768" />
+    <state width="1638" height="370" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593268563298" />
     <state width="1638" height="389" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040382" />
     <state width="937" height="344" key="GridCell.Tab.1.bottom/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
-    <state width="1638" height="389" key="GridCell.Tab.1.center" timestamp="1592983040381">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="370" key="GridCell.Tab.1.center" timestamp="1593268563297">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555767" />
+    <state width="1638" height="370" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593268563297" />
     <state width="1638" height="389" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040381" />
     <state width="937" height="344" key="GridCell.Tab.1.center/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="1638" height="389" key="GridCell.Tab.1.left" timestamp="1592983040380">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="370" key="GridCell.Tab.1.left" timestamp="1593268563297">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555767" />
+    <state width="1638" height="370" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593268563297" />
     <state width="1638" height="389" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040380" />
     <state width="937" height="344" key="GridCell.Tab.1.left/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552569" />
-    <state width="1638" height="389" key="GridCell.Tab.1.right" timestamp="1592983040381">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="370" key="GridCell.Tab.1.right" timestamp="1593268563297">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="427" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591611555768" />
+    <state width="1638" height="370" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593268563297" />
     <state width="1638" height="389" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592983040381" />
     <state width="937" height="344" key="GridCell.Tab.1.right/1290.-1080.1920.1080/0.0.1680.1050@1290.-1080.1920.1080" timestamp="1588212552570" />
     <state x="349" y="155" key="SettingsEditor" timestamp="1592990365203">
@@ -756,6 +734,7 @@
     <SUITE FILE_PATH="coverage/tornadostudy$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1558769825699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/itdangerous" />
     <SUITE FILE_PATH="coverage/tornadostudy$result.coverage" NAME="result Coverage Results" MODIFIED="1558846933323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1590732283762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swagger_demo/config/example-app/demo" />
+    <SUITE FILE_PATH="coverage/tornadostudy$Unittests_in_test6_py.coverage" NAME="Unittests in test6.py Coverage Results" MODIFIED="1593007390545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/tornadostudy$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1588907218685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/tornadostudy$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1592451184670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小点子" />
     <SUITE FILE_PATH="coverage/tornadostudy$.coverage" NAME="二维空间模拟三维运动 Coverage Results" MODIFIED="1592464964574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小点子" />
@@ -766,6 +745,7 @@
     <SUITE FILE_PATH="coverage/tornadostudy$test_o1.coverage" NAME="test_o1 Coverage Results" MODIFIED="1590463136098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/描述符测试" />
     <SUITE FILE_PATH="coverage/tornadostudy$file_recv.coverage" NAME="file_recv Coverage Results" MODIFIED="1559448780624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/tornadostudy$webpy.coverage" NAME="webpy Coverage Results" MODIFIED="1558776106131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tornadostudy$509__.coverage" NAME="509. 斐波那契数 Coverage Results" MODIFIED="1593268912214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_study/LeetCode" />
     <SUITE FILE_PATH="coverage/tornadostudy$celery_01.coverage" NAME="celery_01 Coverage Results" MODIFIED="1558840224031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celerytest" />
     <SUITE FILE_PATH="coverage/tornadostudy$check_result.coverage" NAME="check_result Coverage Results" MODIFIED="1558855887485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_pro" />
     <SUITE FILE_PATH="coverage/tornadostudy$test.coverage" NAME="test Coverage Results" MODIFIED="1589254910755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grpc" />
