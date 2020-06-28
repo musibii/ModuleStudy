@@ -54,4 +54,4 @@ class Solution:
 
 
 if __name__ == "__main__":
-    print(Solution().coinChange([1, 2, 5], 100))
+    print(Solution().coinChange([1, 2, 5], 700))
