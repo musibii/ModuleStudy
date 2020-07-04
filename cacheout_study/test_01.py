@@ -61,14 +61,10 @@ import re
 
 cache.set_many({"a_1": 1, "a_2": 2, "123": 3, "b": 4})
 
-cache.get_many("a_*") == {"a_1": 1, "a_2": 2}
-cache.get_many(re.compile(r"\d")) == {"123": 3}
-cache.get_many(lambda key: "2" in key) == {"a_2": 2, "123": 3}
 
-cache.delete_many("a_*")
-assert dict(cache.items()) == {"123": 3, "b": 4}
+# func.uncached(1, 2)
 
-cache.configure(maxsize=1000, ttl=5 * 60)
+# assert cache.copy() == {1: "foobar", 2: ("foo", "bar", "baz")}
 
 
 cache.set_many({"a": 1, "b": 2, "c": 3})

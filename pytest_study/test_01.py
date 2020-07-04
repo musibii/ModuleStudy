@@ -23,7 +23,7 @@ def outter(func):
 def test_answer():
     assert func(3) == 4
 
-test_answer()
+# test_answer()
 
 
 
