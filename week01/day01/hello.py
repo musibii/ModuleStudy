@@ -9,14 +9,15 @@ from tornado.options import define, parse_command_line
 
 
 class MainHandler(web.RequestHandler):
-    def get(self):
-        self.write('hello szz')
+    def put(self):
+        self.set_header("Content-Type", "application/json")
+        self.write({'name': 'musibii'})
 
 
 def make_app():
     return web.Application(
         [
-            (r'/', MainHandler),
+            (r'/index', MainHandler),
         ]
     )
 

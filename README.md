@@ -18,3 +18,11 @@
 ## coroutine
 ## consul
 ## cacheout
+## aioelasticsearch
+## pickle
+## sqlalchemy
+## python-redis_lock
+## sqlalchemy_aio
+## trio
+## aiopg
+## pydantic

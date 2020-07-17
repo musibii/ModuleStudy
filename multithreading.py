@@ -8,3 +8,4 @@ import threading
 from threading import Thread
 
 help(type(threading.Lock()))
+from piptools.scripts.compile import cli
