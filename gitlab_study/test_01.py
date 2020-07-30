@@ -7,6 +7,7 @@
 # __author__: kevin
 # __file__  : gitlab-sync.py
 # __time__  : 2020/6/21 21:27
+from glob import glob
 
 import gitlab
 import os
