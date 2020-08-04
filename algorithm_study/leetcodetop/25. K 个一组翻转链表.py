@@ -53,22 +53,30 @@ class Solution:
         return tail, head
 
     def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
+        # 设置一个头头结点
         hair = ListNode(0)
+        # 将头头结点指向 head
         hair.next = head
+        # 头头结点相当于 pre 结点
         pre = hair
 
         while head:
+            # 双指针，将 pre 结点即是头头结点也是尾结点
             tail = pre
             # 查看剩余部分长度是否大于等于 k
             for i in range(k):
+                # 循环找出要反转的尾结点
                 tail = tail.next
+                # 如果 tail 为 None 的话，则说明这之后的不用反转
                 if not tail:
                     return hair.next
-            nex = tail.next
+            # 保存下一次反转的头结点
+            temp = tail.next
+            # 将头尾结点反转
             head, tail = self.reverse(head, tail)
             # 把子链表重新接回原链表
             pre.next = head
-            tail.next = nex
+            tail.next = temp
             pre = tail
             head = tail.next
 
