@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # __file__  : markup.py
 # __time__  : 2020/6/29 10:49 下午
-
+import _asyncio
 import sys, re
 from handlers import *
 from util import *
