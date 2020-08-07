@@ -15,3 +15,5 @@ cel = Celery('tasks',  backend=backend, broker=broker)
 @cel.task
 def add(x, y):
     return x + y
+
+add.delay()
