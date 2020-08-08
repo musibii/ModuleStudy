@@ -48,6 +48,46 @@ class Solution:
         return res
 
 
+"""
+def nums_sum(nums: List[int], k: int) -> List[Union[List[int], int]]:
+    sorted_nums = sorted((num for num in nums if num <= k))
+    if not sorted_nums:
+        return [min(nums)]
+    if sum(sorted_nums) <= k:
+        return sorted_nums
+    
+    def nums_nums(nums: List[int], k: int, i, j):
+        if i > j:
+            return [[False]]
+        if nums[i] > k:
+            return [[False]]
+        if nums[i] == k:
+            return [[k]]
+        result = []
+        for m in range(i, j - 1):
+            if nums[m] == k:
+                result.append([k])
+            tem = nums_nums(nums, k - nums[m], m + 1, j)
+            for xx in tem:
+                if xx:
+                    xx.insert(0, nums[m])
+                    result.append(xx)
+        return result
+
+    result = nums_nums(sorted_nums, k, 0, len(sorted_nums))
+    result = [i for i in result if False not in i]
+    if not result:
+        min_num, max_num = sorted_nums[0], sum(sorted_nums)
+        while min_num <= k <= max_num:
+            k -= 1
+            result = nums_nums(sorted_nums, k, 0, len(sorted_nums))
+            if result:
+                return [i for i in result if False not in i]
+    else:
+        return result
+"""
+
+
 if __name__ == '__main__':
     nums = [1,2,3,4,5]
     k = 100
