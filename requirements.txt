@@ -22,7 +22,7 @@ colorama==0.4.3
 consul==0.1.0
 contextvars==2.4
 psycopg2==2.8.5
-pycares==3.1.1
+pycares==4.2.0
 pycurl==7.43.0.5
 python_bcrypt==0.3.2
 rbac==1.0
